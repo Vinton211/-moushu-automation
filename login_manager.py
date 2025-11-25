@@ -43,7 +43,7 @@ class LoginManager:
         登录小红书创作者服务平台
         
         Args:
-            phone_number: 手机号（可选，若不提供则使用默认值18811171501）
+            phone_number: 手机号（可选，若不提供则使用默认值188********）
             password: 密码（可选，此处仅用于兼容接口）
             is_creator: 是否是创作服务平台登录（默认False，此处仅用于兼容接口）
             use_verification_code: 是否使用验证码登录（默认True）
@@ -57,7 +57,7 @@ class LoginManager:
             
             # 设置默认手机号
             if phone_number is None:
-                phone_number = "18811171501"
+                phone_number = "188********"
             
             # 输入手机号 - 使用更通用的定位方式
             try:
