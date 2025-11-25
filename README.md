@@ -196,7 +196,7 @@ api_key = 'your_deepseek_api_key_here'
 
 ## 更新日志
 
-### v1.0.0 (2025-06-13)
+### v1.0.0 (2025-11-25)
 - 初始版本发布
 - 实现Excel内容生成功能
 - 实现小红书自动发布功能
@@ -206,8 +206,8 @@ api_key = 'your_deepseek_api_key_here'
 ## 联系方式
 
 如有问题或建议，请通过以下方式联系：
-- 项目地址：https://github.com/yourusername/xiaohongshu-automation
-- 邮箱：your_email@example.com
+- 项目地址：https://github.com/Vinton211/moushu-automation
+- 邮箱：
 
 ---
 
