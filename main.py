@@ -203,7 +203,7 @@ if __name__ == "__main__":
         print(f"Excel文件路径: {excel_file}")
         
         # 设置DeepSeek API密钥
-        api_key = 'sk-6fdf451e9b3f4f4baa5ed7828e583a83'
+        api_key = '你的deepseekAPIkey'
         
         # 处理Excel文件，生成内容
         process_excel(excel_file, api_key)
